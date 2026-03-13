@@ -1,4 +1,6 @@
 # reel2obsidian
+*Convert saved Instagram reels into individual Obsidian notes.*
+
 
 **INSTRUCTIONS**
 
