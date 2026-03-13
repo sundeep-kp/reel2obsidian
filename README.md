@@ -89,3 +89,11 @@ python3 node_generator.py
 
 
 *a new reels directory will be created with files for each reel*
+
+
+**Further**
+
+```
+when you save new reels, grab the links of apprioximately where the reels are using the console command and paste the links in reels.md, the node generator checks for previously saved links automatically
+
+```
